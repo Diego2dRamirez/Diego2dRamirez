@@ -2,34 +2,34 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
    <h1 align="end"> 
       <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
-      Hey, <a href="https://diego2drm.github.io/Portafolio/">Diego here!</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+      "¡Hola!" <a href="https://diego2drm.github.io/Portafolio/">Aquí Diego!</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    </h1>
       <img  alt="I'am" src="https://i.ibb.co/fdMCBWvH/i-am-diego.jpg" width=200px align="right" />
    <p align="center">
-   I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn       and build something new, productive, innovative and creative.
+  Hola, soy Diego Ramírez. Nací en Puebla, México. Tengo una carrera técnica en Sistemas Automotrices y una ingeniería trunca en el mismo campo. Opté por estudiar programación en el            desarrollo front-end, ya que, al no concluir mi primera carrera por motivos personales, decidí volverme autodidacta y aprender a través de diferentes medios como YouTube, cursos de paga,     cursos gratuitos y documentación oficial, creando así una ruta de aprendizaje y especialización en el desarrollo front-end.
+  Empecé mis estudios en el año 2023 con mis primeros pasos en HTML, aprendiendo las etiquetas más utilizadas para la maquetación de la información. Para darle estilos al HTML, continué con    CSS3, y para añadir interactividad a las páginas web, JavaScript.
+  Siguiendo mi ruta de aprendizaje, el primer framework o librería que decidí usar fue React JS, donde aprendí a usar la sintaxis, los hooks, las exportaciones e importaciones, así como las    diferentes formas de darle estilos a las páginas, por ejemplo: CSS Modules, Tailwind CSS, Bootstrap 5, Sass y Styled-Components. También integré TypeScript para un mejor manejo de la         información.
    </p>
-   
 </section>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<section align="center">
-   <h2>Me interesa el diseño web y el diseño de aplicaciones.** </h2>
-   <h3>Habilidades: </h3>
+<section  align="center">
+<!--    -->
+<!--    <h2>Me interesa el diseño web y el diseño de aplicaciones.** </h2> -->
+   <h2> <> Habilidades: </h2>
    <div>   
       
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
    ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    </div> 
-  
-   <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+      <img alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" />
 </section>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -42,30 +42,44 @@
 
 
 
-- 🌱 I’m currently learning ...
+🌱 Actualmente estoy aprendiendo...
   
    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   
-  - Redux
-  - Redux toolkit
-    
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+   - Redux
+   - Redux Toolkit
 
-- 👋 Hi, I’m @Diego2dRamirez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Próximamente quiero aprender...
 
+   - ![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+   - ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   - ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <section>
    <h1>Certifications! 🏆</h1>
+<div>
+<!-- 📜 **Certificaciones Obtenidas**  
+
+![Certificado JavaScript](https://photos.google.com/photo/AF1QipOVzByJsKsAMF7f5BVP7ocvqlBYs-oYgJiMV7W3)  
+**Certificación en JavaScript** – [Plataforma/Centro de estudios] (Fecha)  
+
+![Certificado React](https://tu-url.com/certificado-react.png)  
+**Certificación en React** – [Plataforma/Centro de estudios] (Fecha)   -->
+<!--
+- 🚀 **Próximas certificaciones**  
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
+
+- **Certificación en Node.js** (Objetivo para 2025)  
+- **Certificación en Redux** (Objetivo para 2025)  
+- **Certificación en React Native** (Objetivo para 2025)
+-->
+</div>
+   
 <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
